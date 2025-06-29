@@ -1,0 +1,11 @@
+{
+    "hotkeys": {
+        "record_toggle": "<f5>",
+        "play_toggle": "<f6>",
+        "pause_toggle": "<f12>"
+    },
+    "playback_speed": "normal",
+    "custom_playback_speed_multiplier": 1.0,
+    "macros_directory": "macros",
+    "log_level": "INFO"
+}

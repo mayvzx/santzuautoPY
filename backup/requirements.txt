@@ -1,0 +1,12 @@
+pynput
+customtkinter
+
+
+
+Pillow
+mss
+
+numpy
+
+pyautogui
+pyperclip
